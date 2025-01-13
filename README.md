@@ -12,6 +12,9 @@ Link to dataset - https://drive.google.com/drive/u/2/folders/11EFyD1yJwMsaDtoavP
 Results:-
 ![pic](https://github.com/user-attachments/assets/86a6fead-bb74-46a7-9a0c-0be222ec9920)
 
+![image](https://github.com/user-attachments/assets/e06895f4-51f8-457d-8142-106a8a1ca574)
+
+
 Based on the values, the ResNet model trained on the
 FLAME dataset has the highest average testing accuracy
 (73.23%) and the highest F1 score (0.82) when tested on
